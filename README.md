@@ -1,5 +1,5 @@
 # AppearanceAnimations
 
-This repository is a playground and a demo for this article : https://app.hubspot.com/blog/2463543/edit-beta/7052609735/content
+This repository is a playground and a demo for [this article](https://blog.bam.tech/developper-news/smooth-appearance-animations-in-react-native-within-an-hour)
 
 It shows how one can implement a smooth appearance transition for displaying network results.
